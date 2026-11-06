@@ -1,0 +1,12 @@
+# JANGAN PERNAH di-push: berisi private key dan token admin
+jab_data/
+**/jab_data/
+wallet.json
+admin_token
+peers.json
+*.ndjson
+*.tmp
+.env
+
+__pycache__/
+*.pyc
